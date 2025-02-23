@@ -38,7 +38,7 @@ Travel-Blog/
 To view the website on your local machine:
 1. Clone this repository to your computer:
    ```bash
-   git clone https://github.com/aviral-pal/Travel-Blog.git
+   git clone https://github.com/aviral-pal/Travel-blog.git
    ```
 2. Navigate to the project directory:
    ```bash
