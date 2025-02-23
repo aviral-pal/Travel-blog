@@ -73,5 +73,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 - Inspired by my passion for traveling and exploring spiritual and scenic places.
 - Special thanks to my mentors and fellow travelers for sharing their knowledge and experiences.
 ```
-
----
